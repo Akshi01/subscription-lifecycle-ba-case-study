@@ -44,7 +44,8 @@ The stakeholders identified are:
 
 Stakeholders were analyzed using an Interest–Influence matrix.
 
-![Screenshot (317).png](attachment:349f2f6a-c6ca-4f29-88d9-3b3dab3a2f32:Screenshot_(317).png)
+<img width="1023" height="796" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/3ac715af-49fc-4028-8495-4829865c483b" />
+
 
 ---
 
