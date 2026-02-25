@@ -1,5 +1,11 @@
 # Learnova Subscription Lifecycle Optimization - Product and Business Case Study
 
+## TL;DR
+This project redesigns Learnova’s subscription lifecycle to reduce post-cancellation churn by introducing flexible options like pause, upgrade, and downgrade.  
+Using root cause analysis and business impact estimation, the solution aims to improve learner retention, preserve learning continuity, and increase recurring revenue.This project redesigns Learnova’s subscription lifecycle to reduce post-cancellation churn by introducing flexible options like pause, upgrade, and downgrade.  
+Using root cause analysis and business impact estimation, the solution aims to improve learner retention, preserve learning continuity, and increase recurring revenue.
+
+
 ## Overview
 This project presents a product and business analysis for improving subscription retention on Learnova, a professional learning platform. The case study focuses on reducing high post-cancellation churn by redesigning the subscription lifecycle to provide greater flexibility and maintain learner continuity.
 
@@ -61,7 +67,3 @@ These features aim to reduce forced cancellations and maintain learner engagemen
 - Revenue and retention analysis
 
 
-## TL;DR
-This project redesigns Learnova’s subscription lifecycle to reduce post-cancellation churn by introducing flexible options like pause, upgrade, and downgrade.  
-Using root cause analysis and business impact estimation, the solution aims to improve learner retention, preserve learning continuity, and increase recurring revenue.This project redesigns Learnova’s subscription lifecycle to reduce post-cancellation churn by introducing flexible options like pause, upgrade, and downgrade.  
-Using root cause analysis and business impact estimation, the solution aims to improve learner retention, preserve learning continuity, and increase recurring revenue.
